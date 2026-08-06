@@ -3,8 +3,8 @@ Analisar  o desempenho de vendas de uma loja virtual, identificando categorias d
 
 Ferramentas Utilizadas
 * Power BI Desktop: Construção de Dashboard e tratamento de dados.
-> DAX: Criação de medidas Calculadas(Faturamento, Qtd Vendida, Ticket Médio).
-> Excel/CSV: Base de dados tratada.
+* DAX: Criação de medidas Calculadas(Faturamento, Qtd Vendida, Ticket Médio).
+* Excel/CSV: Base de dados tratada.
 
 Principais indicadores
 > Faturamento Total: Valor acumulado em vendas.
